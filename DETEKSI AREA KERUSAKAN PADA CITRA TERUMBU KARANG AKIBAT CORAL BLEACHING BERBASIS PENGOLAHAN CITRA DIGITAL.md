@@ -7,6 +7,8 @@
 
 **2206118@itg.ac.id**
 
+[![DOI](https://zenodo.org/badge/925079040.svg)](https://doi.org/10.5281/zenodo.14778198)
+
 ## **1. Pendahuluan**  
 ### **1.1 Latar Belakang**  
 Terumbu karang adalah ekosistem laut yang memiliki peran penting dalam menjaga keseimbangan kehidupan laut. Namun, pemanasan global dan aktivitas manusia menyebabkan pemutihan karang (*coral bleaching*), yaitu kondisi di mana karang kehilangan alga simbionnya akibat stres lingkungan. Proses ini dapat menyebabkan kematian karang secara massal jika tidak segera ditangani.  
