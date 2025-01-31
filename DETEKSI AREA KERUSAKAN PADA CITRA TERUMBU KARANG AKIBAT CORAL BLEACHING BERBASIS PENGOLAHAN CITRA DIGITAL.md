@@ -41,7 +41,7 @@ Proyek ini bertujuan untuk:
    - Menampilkan gambar asli, area bleaching, dan hasil pasca-morfologi.  
 
 ### **2.2 Visualisasi Model**  
-#### **Diagram Alur Pemrosesan Citra**  
+#### **Tahap - tahap dan deskirpsi model**  
 Berikut adalah tahapan pemrosesan citra yang dilakukan:  
 
 | **Tahap** | **Deskripsi** |
